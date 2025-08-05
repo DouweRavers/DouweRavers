@@ -7,5 +7,5 @@ I like creating 3D applications, it being games, interactive web pages or VR sof
 In the future I hope to develop applications or software addressing environmental issues like the energy crisis or helping carbon emission reduction in various industries.
 
 If you want to contact me:
-- E-mail: douwe.ravers@outlook.be
+- E-mail: douwe.ravers@douwco.be
 - Linkedin: https://www.linkedin.com/in/douwe-ravers-838438167/
